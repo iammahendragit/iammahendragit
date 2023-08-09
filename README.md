@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Mahendra Paudel</h1>
-<h3 align="center">A passionate in Machine Learning and Data Science.</h3>
+
+<h3 align="center">About</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammahendragit&label=Profile%20views&color=0e75b6&style=flat" alt="iammahendragit" /> </p>
 
-- 🔭 I’m currently working on [Electronic and computer Laboratory Instructor](https://acem.edu.np/)
-
+- 🔭 Electronic and computer Department Laboratory Instructor at [ Advanced College of Engineering and Management](https://acem.edu.np/)
+- 🏥 Associate Broadcast Engineer at  [ Dish Home](https://www.dishhome.com.np/)
 - 🌱 I’m currently learning **Machine Learning, Computer Vision, Natural Language Processing.**
+-  💬 Email me on: mahendrapaudel21@gmail.com
 
 
 
